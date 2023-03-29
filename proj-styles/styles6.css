@@ -1,0 +1,8 @@
+
+@media print {
+    /* Hide some unwanted elements */
+.coursefiles,result
+{
+    display: none;
+}
+}
